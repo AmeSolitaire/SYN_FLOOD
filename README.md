@@ -70,10 +70,6 @@ Tanggung Jawab: Anda bertanggung jawab penuh atas penggunaan skrip ini.
 
 Saya sangat menyarankan agar Anda tidak menjalankan skrip ini tanpa izin yang tepat dan pemahaman yang mendalam tentang risiko keamanan yang terkait.
 
-Apakah Anda ingin mempelajari lebih lanjut tentang keamanan jaringan atau jenis serangan lainnya?
-
-Saya juga dapat membantu Anda dalam membuat skrip yang lebih kompleks atau menyesuaikan skrip ini dengan kebutuhan Anda.
-
 ---
 
 Penting untuk diingat bahwa informasi ini hanya untuk tujuan pendidikan dan tidak boleh digunakan untuk melakukan aktivitas ilegal.
